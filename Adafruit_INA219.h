@@ -169,6 +169,7 @@ public:
   void setCalibration_32V_2A();
   void setCalibration_32V_1A();
   void setCalibration_16V_400mA();
+  void setCalibration_16V_181mA();
   float getBusVoltage_V();
   float getShuntVoltage_mV();
   float getCurrent_mA();
